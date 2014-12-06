@@ -11,7 +11,7 @@ $driver->manage()->deleteAllCookies();
 
 // navigate to 'http://docs.seleniumhq.org/'
 $driver->get('http://www.seocycle.co.jp/tenpo_ichiran.php');
-$text = $driver->findElement(WebDriverBy::xpath('//*[@id="child-main"]/div'))->getText();
+$text = $driver->findElement(WebDriverBy::xpath('//a/@href'));//->item(0)->getText();
 
 var_dump($text);
 
