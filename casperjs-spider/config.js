@@ -4,10 +4,10 @@ var config = (function(window,document,undefined){
   var config = {};
 
   // Set starting point for crawl
-  config.startUrl = 'http://www.seocycle.co.jp/tenpo_ichiran.php';
+  config.startUrl = 'http://www.aeonet.co.jp/school/area_chugoku.html';
 
   // words to require for all urls ** put your top domain here to keep it local **
-  config.requiredValues = 'http://www.seocycle.co.jp/tenpo_detail.php';
+  config.requiredValues = 'http://www.aeonet.co.jp/school/';
 
   // add any words that spider should skip (comma or space separated)
   config.skippedValues = 'default';
@@ -19,7 +19,7 @@ var config = (function(window,document,undefined){
   config.dateFileName = true;
 
   // toggle verbose in command line
-  config.verbose = false;
+  config.verbose = true;
 
   // logging level can be set to: 'debug', 'info', 'warning', 'error'
   config.logLevel = 'error';
@@ -35,7 +35,6 @@ var config = (function(window,document,undefined){
 
   // override userAgent if necessary
   config.userAgent = null;
-
 
   return config;
 

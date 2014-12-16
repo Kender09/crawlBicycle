@@ -89,7 +89,8 @@
       var status = this.status().currentHTTPStatus;
 
       // Log url
-      this.echo(this.colorizer.format(status, helpers.statusColor(status)) + ' ' + url);
+      // this.echo(this.colorizer.format(status, helpers.statusColor(status)) + ' ' + url);
+      this.echo(url);
 
       // Instantiate link object for log
       var link = {
@@ -116,14 +117,15 @@
 
       // iterate through each localLink
       this.each(localLinks, function(self, link) {
-
         // if url contains text
         var containsText = function (element, index, array) {
           return (newUrl.indexOf(array[index]) >= 0);
         };
 
         // Get new url
-        var newUrl = helpers.absoluteUri(baseUrl, link);
+        // var newUrl = helpers.absoluteUri(baseUrl, link);
+        // AEON英会話ように対策
+        var newUrl = baseUrl + '/school/' + link;
 
         // If url is not visited, pending or skipped:
         if (pendingUrls.indexOf(newUrl) === -1 &&
@@ -131,13 +133,9 @@
             skippedUrls.indexOf(newUrl) === -1) {
 
           // if newUrl is not does not contain skipped, and does have required
-          if (!dataObj.skippedValues.some(containsText) &&
-              dataObj.requiredValues.every(containsText)) {
-
+          if (!dataObj.skippedValues.some(containsText) && dataObj.requiredValues.every(containsText)) {
             pendingUrls.push(newUrl);
-
           } else {
-
             // add it to skipped array
             skippedUrls.push(newUrl);
 
