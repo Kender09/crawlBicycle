@@ -123,9 +123,9 @@
         };
 
         // Get new url
-        // var newUrl = helpers.absoluteUri(baseUrl, link);
+        var newUrl = helpers.absoluteUri(baseUrl, link);
         // AEON英会話ように対策
-        var newUrl = baseUrl + '/school/' + link;
+        // var newUrl = baseUrl + '/school/' + link;
 
         // If url is not visited, pending or skipped:
         if (pendingUrls.indexOf(newUrl) === -1 &&
