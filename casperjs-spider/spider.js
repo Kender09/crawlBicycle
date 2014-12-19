@@ -124,7 +124,7 @@
 
         // Get new url
         var newUrl = helpers.absoluteUri(baseUrl, link);
-        // AEON英会話ように対策
+        // AEON英会話用に対策
         // var newUrl = baseUrl + '/school/' + link;
 
         // If url is not visited, pending or skipped:

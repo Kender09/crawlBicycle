@@ -4,10 +4,10 @@ var config = (function(window,document,undefined){
   var config = {};
 
   // Set starting point for crawl
-  config.startUrl = 'http://www.aeonet.co.jp/school/area_chugoku.html';
+  config.startUrl = 'http://www.shane.co.jp/eikaiwaranking/';
 
   // words to require for all urls ** put your top domain here to keep it local **
-  config.requiredValues = 'http://www.aeonet.co.jp/school/';
+  config.requiredValues = 'http://www.shane.co.jp/school/detail/';
 
   // add any words that spider should skip (comma or space separated)
   config.skippedValues = 'default';
