@@ -1,7 +1,0 @@
-{
-    "casper-path": "/usr/local/Cellar/casperjs/1.1-beta3/libexec",
-    "cli": true
-}
-http://www.shane.co.jp/eikaiwaranking/
-[32;1mCrawl has completed![0m
-[32;1mData file can be found at ./logs/2014-12-19-data.json.[0m
