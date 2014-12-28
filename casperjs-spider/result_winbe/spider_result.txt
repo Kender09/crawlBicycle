@@ -1,0 +1,51 @@
+{
+    "casper-path": "/usr/local/Cellar/casperjs/1.1-beta3/libexec",
+    "cli": true
+}
+http://www.tact-net.jp/winbe/network/index.htm#anc_01
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3906.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B14.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B07.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B55.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3100.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3103.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3121.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3123.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3124.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3125.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7116.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3108.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3403.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3219.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3239.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3200.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3212.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/3216.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B45.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B21.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7B30.htm
+[37;41;1m[error][0m [phantom] ERROR: TypeError: 'undefined' is not a function (evaluating '$("#gmap").gmap3')
+http://www.tact-net.jp/winbe/network/class/7706.htm
+[32;1mCrawl has completed![0m
+[32;1mData file can be found at ./logs/2014-12-22-data.json.[0m

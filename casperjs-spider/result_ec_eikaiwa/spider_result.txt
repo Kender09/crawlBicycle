@@ -1,0 +1,19 @@
+{
+    "casper-path": "/usr/local/Cellar/casperjs/1.1-beta3/libexec",
+    "cli": true
+}
+http://www.ec-eikaiwa.com/school/list.html
+http://www.ec-eikaiwa.com/school/
+http://www.ec-eikaiwa.com/school/asty.html
+http://www.ec-eikaiwa.com/school/shiroishi.html
+http://www.ec-eikaiwa.com/school/kaimonokohen.html
+http://www.ec-eikaiwa.com/school/gyokeidohri.html
+http://www.ec-eikaiwa.com/school/pewre.html
+http://www.ec-eikaiwa.com/school/miyanosawa.html
+http://www.ec-eikaiwa.com/school/nishikohmae.html
+http://www.ec-eikaiwa.com/school/ohyachi.html
+http://www.ec-eikaiwa.com/school/makomanai.html
+http://www.ec-eikaiwa.com/school/hoshioki.html
+http://www.ec-eikaiwa.com/school/nopporo.html
+[32;1mCrawl has completed![0m
+[32;1mData file can be found at ./logs/2014-12-22-data.json.[0m
