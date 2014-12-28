@@ -45,6 +45,7 @@ casper.start(arg, function(){
         map[j] = map[j].replace(/\\n|\\r|<br>/g, "");
         this.echo(map[j] + ",");
     }
+    this.echo("\n\n");
 
 });
 

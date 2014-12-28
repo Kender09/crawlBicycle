@@ -258,6 +258,6 @@ http://www.aeonet.co.jp/school/1813/
 
 for (( i=0; i<${#array[@]}; ++i ))
 do
-    echo ${array[$i]}
+    casperjs ../aeon.js ${array[$i]} >> content_AEON.txt
 done
 
