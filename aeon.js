@@ -2,7 +2,7 @@ var casper = require('casper').create();
 var x = require('casper').selectXPath;
 
 var arg = casper.cli.args[0];
-var result = "";
+var result = "{";
 
 casper.start(arg, function(){
     // 住所部分
@@ -34,15 +34,22 @@ casper.start(arg, function(){
 
     for(i=1; i<4; i++){
         elements[i] = elements[i].replace(/<span.+<\/span>(<br>)?(&nbsp;)?/, "");
-        result += elements[i] + ",";
+        result += "Element"+i+":" + elements[i] + ",";
     }
     address[0] = address[0].replace(/<span.+<\/span>(<br>)?(&nbsp;)?/, "");
-    result += address[0] + ",";
+    result += "Address:" + address[0] + ",";
 
-    result += map.join(",");
-    result += "\n";
+    for(j=0; j<map.length; j++){
+        result += "Route"+j+":" + map[j] + ",";
+    }
+    result += "}";
+
     result = result.replace(/\\n|\\r|<br>/g, "");
     this.echo(result);
+    this.echo("\n");
+    var jsonBefore = JSON.parse(result);
+    var json = JSON.stringify(jsonBefore, null, "  ");
+    this.echo(json);
 });
 
 casper.run();
