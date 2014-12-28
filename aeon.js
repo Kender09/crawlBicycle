@@ -34,22 +34,18 @@ casper.start(arg, function(){
 
     for(i=1; i<4; i++){
         elements[i] = elements[i].replace(/<span.+<\/span>(<br>)?(&nbsp;)?/, "");
-        result += "Element"+i+":" + elements[i] + ",";
+        elements[i] = elements[i].replace(/[\\n, \\r]/g, "");
+        this.echo(elements[i] + ",");
     }
     address[0] = address[0].replace(/<span.+<\/span>(<br>)?(&nbsp;)?/, "");
-    result += "Address:" + address[0] + ",";
+    address[0] = address[0].replace(/[\\n, \\r]/g, "");
+    this.echo(address[0] + ",");
 
     for(j=0; j<map.length; j++){
-        result += "Route"+j+":" + map[j] + ",";
+        map[j] = map[j].replace(/\\n|\\r|<br>/g, "");
+        this.echo(map[j] + ",");
     }
-    result += "}";
 
-    result = result.replace(/\\n|\\r|<br>/g, "");
-    this.echo(result);
-    this.echo("\n");
-    var jsonBefore = JSON.parse(result);
-    var json = JSON.stringify(jsonBefore, null, "  ");
-    this.echo(json);
 });
 
 casper.run();
