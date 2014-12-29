@@ -24,12 +24,14 @@ casper.start(arg, function(){
     });
 
     name = name.replace(/<span.*<\/span>/g, "");
-    this.echo(name + ",");
+    this.echo(name);
+    this.echo(arg);
 
-    for(i=0; i<3; i++){
+    for(i=0; i<2; i++){
         if(i===1){
             elements[i] = elements[i].replace(/<br>.*<br>/, "");
             elements[i] = elements[i].replace(/<span.*/, "");
+            elements[i] = elements[i].replace(/<br>/, "、");
         }else{
             elements[i] = elements[i].replace(/<br>/g, "");
         }
