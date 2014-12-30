@@ -1,0 +1,901 @@
+表参道ランゲージセンター,
+東京都港区北青山3-10-6
+青山パークスビル3F,
+東京メトロ表参道駅B2出口を出て表参道交差点方面に向かい、1本目を左に入る。徒歩1分。,
+8:30-21:00（平日）
+8:30-18:00（土曜）
+8:30-17:00（日曜）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+赤坂ランゲージセンター,
+東京都港区赤坂1-7-19
+キャピタル赤坂ビル3F,
+地下鉄銀座線・南北線溜池山王駅13番出口を出て右に徒歩1分,
+7:45-21:00（平日）
+8:30-17:00（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+赤羽ランゲージセンター ,
+
+<script>
+  lcaddress();
+</script>東京都北区赤羽1-9-3赤羽駅前ビル8F
+,
+
+<script>
+  road();
+</script>JR赤羽駅北改札口東口を出て徒歩1分。ドラッグストア 「マツモトキヨシ」が入っているビルの8階です。
+,
+
+<script>
+  uketsuketime();
+</script>8:30-21:00（平日）8:30-17:00（土日）<span class="attention">※ 祝祭日お休み</span>
+,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+池袋ランゲージセンター,
+東京都豊島区池袋2-2-1
+ウィックス池袋ビル5階,
+JR、西武、東武池袋駅西口から徒歩2分。西口五差路へ直進。
+東京メトロ副都心線池袋駅より徒歩1分。C6出口を出て左側。
+1階は大和証券さんです。ビル入口はエクセルシオールカフェさんとの間の路地側にございます。,
+8:30-21:00（平日）
+8:30-18:00（土日祝）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+市ヶ谷ランゲージセンター,
+東京都千代田区九段南4-8-21
+山脇ビルB1F,
+<b>JR改札</b>を出て右側の歩道を少し進むと山脇ビルが見えます。ランゲ－ジセンタ－はそのB1Fです。
+<b>地下鉄</b>からはA2出口から直通です。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+上野ランゲージセンター,
+東京都台東区上野6-16-16
+上野ORAGAビル2F,
+営団地下鉄上野駅下車　4番出口を出て徒歩0分、JR上野駅広小路改札口を出て徒歩3分。
+丸井CITY正面に見て左方向へ道なりに進むと「マンダイ薬局」があります。そのビルの2階です。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+8:30-16:00（祝）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+大手町ランゲージセンター,
+東京都千代田区大手町2-2-1
+新大手町ビル2F,
+地下鉄大手町駅　B3出口より新大手町ビル地下につながっています。JR東京駅丸の内北口を出て右に線路沿いに進み、JR高架脇の信号斜め向い側が新大手町ビルです。,
+8:30-21:00（平日）
+8:30-17:30（土）
+10:00-17:30（日祝）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+お茶の水ランゲージセンター,
+東京都千代田区神田駿河台2-8
+瀬川ビル3F,
+JR聖橋口を出て右斜め前の1Fに丸善さんが入っているビルです。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+吉祥寺ランゲージセンター,
+東京都武蔵野市吉祥寺本町1-15-2
+ダイヤバローレビル6F,
+JR吉祥寺駅中央口(北口）下車　徒歩1分
+サンロード入口にある三菱東京UFJ銀行のビル6階（バスターミナル向かい）,
+8:30-21:00（平日）
+8:30-18:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+三軒茶屋ランゲージセンター,
+東京都世田谷区三軒茶屋1-41-9
+朝日生命三軒茶屋ビル6F,
+東急田園都市線、三軒茶屋駅南口の左側階段で地上に上がり、道なり（246沿い渋谷方向へ）に直進徒歩約1分（途中右手に本屋さん、コンビニを通過します）。1階にモスバーガーの入っているビルの6階です。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+品川ランゲージセンター,
+東京都港区港南2-16-1
+品川イーストワンタワー3F,
+品川駅港南口を出て3分、右手に見える品川イーストワンタワー3階,
+8:30-21:00（平日）
+8:30-18:00（土）
+9:15-18:00（日）
+<span class="attention">※ 祝祭日適宜対応※ 1/18（日）はビルメンテナンスのため休講</span>,
+
+
+
+渋谷ランゲージセンター,
+東京都渋谷区渋谷1-13-9
+渋谷たくぎんビル 7F,
+<b>JR山手線</b> 東口/宮益坂口を出て交差点を渡り、宮益坂を青山方面へ徒歩2分。郵便局手前、Open House（センチュリー21）が入っているビルの7階です。
+<b>東急田園都市線/半蔵門線/銀座線/副都心線/東急東横線</b> 11番出口より徒歩1分。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-17:00（日）
+9:15-17:00（祝）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+下北沢ランゲージセンター,
+東京都世田谷区代田6-3-1
+KAWANO SHIMOKITA NORTH 3F,
+京王井の頭線、小田急下北沢駅西口下車徒歩1分。西口改札右の出口階段を上がり右手に50ｍほど直進。
+ドラッグストアの向かいのビルの3階にございます。,
+13:00-21:00（月・水・木・金）
+8:30-21:00（火）
+8:30-16:00（土日）
+<span class="attention">※祝祭日お休み</span>,
+
+
+
+自由が丘ランゲージセンター,
+東京都目黒区自由が丘2-17-7
+増田ビルB1F,
+<span style="color:red">2014/12/26（金）移転しました</span>
+正面口を出てエクセルシオールカフェ脇の道を進むと交差点があるので、 そこの信号を渡って右に曲がり、道なりに進む。
+次の信号を渡り更に進むと1階にインテリアショップがあるビルの地下。
+ABCマートの手前。,
+8:30-21:00（平日）
+8:30-18:00（土日）
+10:00-18:00（祝日）,
+
+
+
+新青山ビルランゲージセンター,
+東京都港区南青山1-1-1
+新青山ビル東館B1F,
+東京メトロ銀座線、半蔵門線、大江戸線の青山一丁目駅4番出口直結、徒歩1分。
+新青山ビル東館地下1階です。,
+8:30-21:00（平日）
+10:00-18:00（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>
+<span class="attention">※ 10/18（土）はビルメンテナンスのため、休講</span>,
+
+
+
+新宿ランゲージセンター ,
+東京都新宿区西新宿1-13-12
+西新宿昭和ビル7F,
+新宿駅西口を外に出て頂き、京王百貨店前の信号を渡ります。そのまま駅と反対方向に進むと、左手に高速バス乗り場、ヨドバシカメラ、少し先にスターバックスが見えます。更に進むと右手に新宿郵便局があります。その真向かいのビルの7階です。,
+8:30-21:00（平日）
+8:30-18:00（土日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+成城ランゲージセンター,
+東京都世田谷区成城6-15-14
+緑蔭館ビル2F,
+小田急線成城学園前駅北口下車徒歩3分。
+駅前の信号を渡って、直進下さい。成城学園前駅入口の信号、角にカリス成城が見えたら、左折。石造りの建物の2階です。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+新百合ヶ丘ランゲージセンター,
+神奈川県川崎市麻生区上麻生1-5-1
+りそな新百合ヶ丘ビル2F,
+小田急線「新百合ヶ丘駅」を降りて、南口を出ます。まっすぐメインストリートを歩いて1分程行くと、りそな銀行のビルが見えます。そちらのビルの2階になります。,
+8:30-21:00（月火水金）
+13:00-21:00（木）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+立川ランゲージセンター,
+東京都立川市柴崎町3-3-2
+AB'sビル3F,
+JR立川駅下車　南口を出て正面のビル3・4・5階（3階が受付）徒歩1分。
+多摩モノレール立川南駅（出口は1つ）を出てすぐ。1階はドトールコーヒーです。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+多摩センターランゲージセンター,
+東京都多摩市落合1-43
+京王プラザホテル多摩 東館3F,
+京王多摩センター/小田急多摩センター駅を出てパルテノン多摩に続くパルテノン大通りを歩いていただくと右手に京王プラザホテル多摩が見えます。三井住友銀行隣がベルリッツです。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+調布ランゲージセンター,
+東京都調布市布田4-2-1
+調布スクエアビル3F,
+京王線調布駅下車すぐ。
+中央改札口を出て、階段または、エスカレーターで地上階へ。
+上りきったら左に向かい、1階にカレー屋さんのあるビルの3階です。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+中目黒ランゲージセンター ,
+東京都目黒区上目黒2-9-1
+中目黒GS第1ビル3F,
+東急東横線/地下鉄日比谷線中目黒駅下車改札出て右に徒歩1分。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-16:45（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+日本橋ランゲージセンター ,
+東京都中央区日本橋2-3-6
+日土地日本橋ビル1F,
+<b>東京メトロ日本橋駅から</b>：B3出口を出てすぐ左のビルです。中央通りを挟んで高島屋の正面、丸善の隣です。1Fに受付がございます。
+<b>JR東京駅から</b>：八重洲中央口を出て八重洲通りを直進。中央通りを左折してそのまま右手に高島屋が見えるまで進みます（中央通りを挟んで真向かいに高島屋があります）。丸善日本橋店隣り、1Fに受付がございます。,
+8:30-21:00（平日）
+8:30-17:30（土日）
+10:00-17:30（祝祭日）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+練馬ランゲージセンター,
+東京都練馬区豊玉北5-17-12
+練馬駅前ビル4F,
+西武池袋線練馬駅下車南口を出て道を渡った正面のビル、大江戸線練馬駅A1出口と同じビル,
+8:30-21:00（平日）
+8:30-17:30（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+浜松町ランゲージセンター,
+東京都港区海岸1-2-3
+汐留芝離宮ビルディング 3F,
+JR浜松町駅北口より徒歩2分、
+都営浅草線・大江戸線大門駅徒歩3分（B1出口）、
+東京モノレール浜松町駅徒歩3分、
+ゆりかもめ竹芝駅徒歩7分。,
+8:30-21:00（平日）
+8:30-17:00（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+町田ランゲージセンター,
+東京都町田市原町田6-3-8
+三井住友銀行町田駅前ビル7F,
+<b>小田急線町田駅から</b>：西口改札を出て左手JR町田駅方面の道路の入り口にmodiがあり、手前の道路を左手方向に行くと右手に大きなマクドナルドがある。道をはさんで向かい側、三井住友銀行のビル7階
+<b>JR町田駅から</b>：中央改札口を出て、東急別館の方に渡りそのまま小田急線の方面に歩いていくと、modiの間に道路が見える。歩道橋から道路におりて正面マクドナルドの向かい側の三井住友銀行のビル7階,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+目黒ランゲージセンター,
+東京都品川区上大崎2-16-5
+目黒ステーションサイドビル4F,
+JR目黒駅下車（東口）駅を背に左へ徒歩0分 アトレ1（1Fスターバックス）の隣のビル4F。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+,
+[37;41;1mTypeError: 'undefined' is not an object (evaluating 'elements[i].replace')      [0m
+  /Users/tom__bo/Desktop/crawlBicycle/scraper/berlitz.js:[33m29[0m
+  /usr/local/Cellar/casperjs/1.1-beta3/libexec/modules/casper.js:[33m1553[0m in [36mrunStep[0m
+  /usr/local/Cellar/casperjs/1.1-beta3/libexec/modules/casper.js:[33m399[0m in [36mcheckStep[0m
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+有楽町ランゲージセンター,
+東京都千代田区有楽町1-10-1
+有楽町ビル6F,
+<b>山手線/京浜東北線</b>
+有楽町駅下車　日比谷口正面のビル
+<b>地下鉄有楽町線</b>
+有楽町駅D2出口徒歩2分
+<b>地下鉄日比谷線</b>
+日比谷駅A2出口徒歩2分
+※日曜・祝日にご来校の際は、エレベーターで一度、地下2Fに降りてから6Fまで上がってください。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-17:00（日）
+8:30-16:30（祝）,
+
+
+
+六本木ランゲージセンター ,
+東京都港区六本木6-1-20
+六本木電気ビル8F,
+東京メトロ、都営地下鉄六本木駅3番出口を出て左に徒歩1分。
+六本木ヒルズ方面からは六本木駅1番出口を出て右に徒歩1分。1階は青山ブックセンターさんです。,
+8:30-21:00（平日）
+8:30-17:30（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+青葉台ランゲージセンター,
+神奈川県横浜市青葉区青葉台1-6-12
+カンゼームビル5F,
+東急田園都市線　青葉台駅下車　徒歩2分,
+8:30-21:00（平日）
+8:30-17:30（土日）
+8:30-16:45（祝日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+厚木ランゲージセンター,
+神奈川県厚木市中町2-2-20
+オーイズミ本厚木ビル7F,
+本厚木駅北口を出て、ロータリー横の大きな交差点をミロード2の側に渡り、大通りに沿ってミロード2から2軒となり、1階が野村證券のビルです。,
+13:00-21:00（月）
+8:30-21:00（火～金）
+8:30-17:00（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+川崎ランゲージセンター,
+神奈川県川崎市川崎区駅前本町 11-1
+パシフィックマークス川崎5F,
+<b>JR川崎駅から</b>：改札を出て東口へ向かい、階段を下りて左折、正面の川崎駅前タワーリパークの右手横断歩道を渡った正面ビル5F
+<b>京急川崎駅から</b>：中央改札口を出て右手前方の横断歩道を斜めに横断、京急線沿いに横浜方面へ直進し、市役所通りに出たら角を右折。当ビル1階はメガネのパリ・ミキさんです。,
+8:30-21:00（平日）
+8:30-18:00（土）
+8:30-16:30（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+新横浜ランゲージセンター ,
+神奈川県横浜市港北区新横浜2-4-15
+太田興産ビル新横浜5F,
+JR新横浜駅北口を出て、歩道橋の突き当たりを右へ。左手すぐのビル（1階がコンビニ）の5階にあります。地下鉄新横浜駅ご利用の方は5番出口をご利用ください。,
+8:30-21:00（月水金）
+13:00-21:00（火木）
+8:30-16:45（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+たまプラーザランゲージセンター,
+神奈川県横浜市青葉区美しが丘2-14-2
+スクエアビル2F,
+たまプラーザ駅北口から徒歩3分。東急百貨店の前の通りを歩いて二つ目の信号を左折、たまプラーザ商店街内1階にラーメン横濱屋さんの入っているビル２階です。,
+8:30-21:00（月水金）
+13:00-21:00（火木）
+8:30-17:30（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+藤沢ランゲージセンター,
+神奈川県藤沢市藤沢462
+日本生命藤沢駅前ビル5F,
+藤沢駅北口を線路沿いに左方向。「さいかや」近くの横浜銀行 2つ隣の白いビル 5階。（1階が大和證券）。徒歩約 2分。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+溝の口ランゲージセンター,
+神奈川県川崎市高津区溝口2-1-1
+クレステーション溝の口（東急溝の口駅ビル）4F,
+<b>東急田園都市線溝の口駅下車0分</b> 改札（東口/西口）を出て右へ進み駅ビル（クレステーション）エレベーターで4階へ
+<b>JR 武蔵溝ノ口駅下車1分</b> 東急溝の口駅ビル（クレステーション）へ行きエレベーターで4階へ,
+8:30-21:00（平日）
+8:30-17:30（土日）
+8:30-16:30（祝）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+横浜ランゲージセンター,
+神奈川県横浜市西区高島2-19-12
+スカイビル20F,
+横浜東口からルミネ、ポルタ方向へ直進。途中エスカレ―タ-・階段でB1FからＢ2Ｆへ。
+さらにSOGOが見えるまでそのまま直進し、SOGOの右隣のビルです。,
+8:30-21:00（平日）
+8:30-18:00（土日）
+<span class="attention">※ 祝祭日適宜対応</span>,
+
+
+
+市川ランゲージセンター,
+千葉県市川市市川1-3-18
+明治安田生命市川ビル3F,
+JR総武線市川駅北口下車3分
+ロータリー右手のダイエーの角を右折最初の交差点を左折。I.Iロードを14号方面へ向かって右手1Fカフェベローチェの所が入口。市川グランドホテル3Fとなります。,
+8:30-21:00（平日）
+8:30-16:30（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+柏ランゲージセンター,
+千葉県柏市柏2-2-2
+浅野ビル4F,
+JR柏駅中央口を出て右手東口デッキ正面をご覧いただくと壁面にベルリッツのロゴがついているビルが見えます。
+1階にはマツモトキヨシが入っています。デッキをそごうスカイプラザ横の階段から下り交差点正面にあるビルの左手側出入り口からエレベーターで4階にお越し下さい。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+千葉ランゲージセンター ,
+千葉県千葉市中央区新町1000番地
+センシティタワー13F,
+<b>JR千葉駅から</b>：東口改札を出て右折後、千葉そごう前の通りを渡り、右手みずほ銀行の奥がセンシティタワー入り口。低層用エレベーターにて13Fへ。
+<b>京成千葉駅から</b>：西口改札を出て、左手前方みずほ銀行の奥がセンシティタワー入り口。低層用エレベーターにて13Fへ。
+<b>千葉都市モノレールから</b>：南口改札より、センシティ広場（センシティタワー4Ｆと直結）を通って低層用エレベーターにて13Fへ。,
+8:30-21:00（平日）　
+8:30-17:15（土）
+8:30-16:45（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+大宮ランゲージセンター,
+埼玉県さいたま市大宮区桜木町1-7-5
+ソニックシティビル18F,
+大宮駅西口より歩行者デッキで直結（徒歩5分）。
+そごうの右手奥に見える31階建ての高層ビルがソニックシティビルです。
+2階の正面入口よりお入りいただき、中層階用のエレベーターで18階までお越し下さい。,
+8:30-21:00（平日）
+8:30-17:00（土日）
+<span class="attention">※ 祝祭日お休み
+</span>,
+
+
+
+刈谷ランゲージセンター,
+愛知県刈谷市桜町1-24
+JS刈谷駅ビル1F,
+刈谷駅北口すぐ,
+8:30-21:00（平日）
+8:30-17:30（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+豊田ランゲージセンター,
+愛知県豊田市御幸本町1-179
+豊田TKビルディング（旧東京海上日動ビル）1F,
+愛知環状鉄道　三河豊田駅下車　駅ロータリー側
+※平日18:00以降、土曜日にご来校の際は、正面入口の左にあるドアからビルにお入りください。
+<b>お車でお越しのお客様へ</b>：駐車スペースは限られておりますので、満車の際は駐車いただけない場合もございます。予めご了承ください。,
+8:30-21:00（平日）
+8:30-17:00（土）
+<span class="attention">※ 日曜・祝祭日お休み（言語により応相談）</span>,
+
+
+
+名古屋駅前ランゲージセンター,
+愛知県名古屋市中村区名駅3-15-1
+名古屋ダイヤビル2号館1F,
+地下鉄名古屋/JR名古屋駅、名鉄から徒歩5分、地下街からは名古屋駅2番出口を出て左折、安保ホールの先にある角のビル1Fです。
+ユニモール4番出口からは北向きに直進です。,
+8:30-21:00（平日）
+8:30-17:30（土）
+8:30-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+名古屋金山ランゲージセンター,
+愛知県名古屋市中区金山1-14-16
+トキワビル5F,
+金山駅北口（アスナル金山側）の横断歩道を渡ってすぐ。1階にJTBさんが入っているビルの5階です。,
+8:30-21:00（平日）
+8:30-17:30（土）
+8:30-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+名古屋栄ランゲージセンター,
+愛知県名古屋市中区新栄町1-1
+明治安田生命名古屋ビル8F,
+地下鉄東山線栄駅5番出口を出てすぐ左側です。
+地下街からお越しになる場合はメルサプラッツ（地下2階）からエレベーターをご利用ください。,
+8:30-21:00（平日）
+8:30-17:30（土）
+8:30-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+浜松ランゲージセンター ,
+静岡県浜松市中区板屋町111-2
+アクトタワー（プラザ）3F,
+JR浜松駅隣接。アクトタワー内、アクトプラザ3F。,
+10:00-20:30（平日）
+9:00-17:00（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+静岡ランゲージセンター,
+静岡県静岡市葵区呉服町1-6-11
+静岡呉服町ビル4F,
+JR静岡駅から徒歩10～15分
+静岡駅を背にして呉服町通りを伊勢丹に向かって歩きます。呉服町通りと七間町通りとの交差点左に伊勢丹デパート、右の1階にスーツカンパニーさんが入っているビルの４階です。（入口は七間町通り沿い県庁側です。）,
+9:00-20:30（平日）
+9:00-17:30（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+梅田ランゲージセンター,
+大阪府大阪市北区小松原町3-3
+OSビル11F,
+JR大阪 阪急阪神梅田駅下車徒歩約5分。
+阪急メンズ館と富国生命ビルの間にある三角の形をしたビルの11階です。,
+8:30-21:00（平日）
+8:30-18:00（土日）,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+千里中央ランゲージセンター,
+大阪府豊中市新千里東町1-4-2
+千里ライフサイエンスセンタービル15F,
+<b>地上よりお越しの場合</b>：千里中央北交差点、ヤマダ電機の対角線斜め向かい。
+<b>地下鉄でお越しの場合</b>：千里中央駅北口改札を出て、10番、20番、22番いずれかの出口より地上へ出てすぐ正面。,
+9:00-21:00（平日）
+9:00-18:00（土）
+9:00-17:00(日)
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+あべの天王寺ランゲージセンター ,
+大阪府大阪市阿倍野区阿倍野筋1-5-1
+あべのルシアスビル6F,
+<span style="color:red">2014/12/26（金）移転しました</span>
+あべのハルカス、阿倍野橋交差点の西側、あべのルシアスビル6階。
+大阪市大病院の東隣、アポロビルの西側のビルです。
+*6階にお越しいただくには、オフィス棟エレベーターをご利用ください。,
+9:00-21:00（平日）
+9:00-17:30（土）
+9:00-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+難波ランゲージセンター ,
+大阪府大阪市中央区難波2-1-2
+太陽生命難波ビル7F,
+御堂筋線なんば駅下車。　北側の25番出口を出て正面のビル1階に、ファミリーレストラン ロイヤルホストがあるビルです。,
+9:00-21:00（平日）
+9:00-17:30（土）
+9:00-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+本町ランゲージセンター,
+大阪府大阪市中央区本町3-1-6
+羽州本町ビル9F,
+【御堂筋線本町駅から】
+3番出口を出て左へ。本町3丁目交差点を左折し本町通を直進。大韓航空ビルを過ぎ、本三モータープールの隣のビル。徒歩約3分。
+【堺筋線堺筋本町駅から】
+17番出口を出て本町1丁目交差点を右折。本町通を直進し、本町2丁目交差点を過ぎ2軒目のビル。徒歩約3分。,
+9:00-21:00（平日）
+9:00-17:30（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+芦屋ランゲージセンター ,
+兵庫県芦屋市大原町8-2
+ラ・フォーネ芦屋　3F,
+<b>JR芦屋駅下車北側</b>　エース証券角を北に向かって徒歩3分。 ラポルテ東館イエローカメラの東向かいです。,
+9:00-21:00（平日）
+9:00-17:30（土）
+9:00-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+三宮ランゲージセンター,
+兵庫県神戸市中央区京町74
+京町７４番ビル 5F,
+JR・阪急・阪神・ポートライナー　三宮駅より徒歩6分
+阪急三宮駅西口より三宮センター街南、2筋目
+三宮中央通り駐車場B10出口階段上がる
+地下鉄海岸線、花時計前駅西出口より徒歩1分
+<b>＜花時計前駅西出口からの道順＞</b>
+1．フラワーロード沿い、花時計の手前の道を右へ。（JR側の北（山側）を背に南（海側）に向いた場合の西方向）
+2．少し歩くとガソリンスタンド（Shellさん）が見えます。そのまま西へまっすぐ進みます。
+3．1FにTHE SUIT COMPANYさんの店舗が入った京町74番ビル5Fです。,
+9:00-21:00（平日）
+9:00-18:00（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+西宮ランゲージセンター ,
+兵庫県西宮市甲風園1-7-5
+ますいビル2F,
+阪急西宮北口駅下車北出口より野村證券角を右折し直進、セブンイレブン角を左折。徒歩5分。,
+9:00-21:00（平日）
+9:00-17:30（土）
+9:00-17:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+京都駅前ランゲージセンター,
+京都府京都市下京区東塩小路町843-2
+日本生命京都ヤサカビル2F,
+JR京都駅から徒歩1分（京都タワー側）。京都中央郵便局北隣のコンビニエンスストアがあるビルの2階です。地下街ポルタのレストランゾーン、上がってすぐです。,
+9:00-21:00（平日）
+9:00-17:30（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+京都四条ランゲージセンター,
+京都府京都市下京区四条通富小路西入ル
+立売東町14-4 イシズミビル9F,
+阪急・地下鉄の地下道12番出口を出てすぐ、コンビニエンスストアがあるビルの9階です。 大丸・高島屋からそれぞれ徒歩5分。四条富小路南西角。福寿園本店の西隣りです。,
+9:00-21:00（平日）
+※ 20:00以降はお電話でのお問い合わせのみ承ります。
+9:00-17:00（土日）
+<span class="attention">※ 祝祭日お休み
+</span>,
+
+
+
+仙台ランゲージセンター ,
+宮城県仙台市青葉区本町3-2-1
+ハーフムーンビル3F,
+地下鉄勾当台公園下車　徒歩3分,
+10:00-20:00（平日）
+9:00-15:00（土）
+<span class="attention">※ 日曜・祝祭日お休み</span>,
+
+
+
+広島ランゲージセンター,
+広島県広島市中区基町 12-3
+COI広島紙屋町ビル 2F,
+立町電停から紙屋町方向へ約100M。ファミリーマートが入っているビルの2階。広島そごうと東急ハンズの丁度中間。シャレオ（地下街）より東5出口より徒歩1分です。,
+9:00-21:15（平日）
+9:00-17:30（土日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
+
+岡山ランゲージセンター,
+岡山県岡山市北区駅前町1-8-5
+ドレミの街5F,
+JR岡山駅構内より桃太郎大通り方面直進、ドレミの街5階です。,
+10:00-20:30（平日）
+9:15-18:00（土）
+10:00-18:00（日）
+<span class="attention">※ 祝祭日お休み</span>,
+
+
+
