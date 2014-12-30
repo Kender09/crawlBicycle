@@ -1,24 +1,11 @@
-関東のラーニングスタジオ,
-[37;41;1mTypeError: 'undefined' is not an object (evaluating 'elements[i].replace')      [0m
-  /Users/tom__bo/Desktop/crawlBicycle/gaba.js:[33m34[0m
-  /usr/local/Cellar/casperjs/1.1-beta3/libexec/modules/casper.js:[33m1553[0m in [36mrunStep[0m
-  /usr/local/Cellar/casperjs/1.1-beta3/libexec/modules/casper.js:[33m399[0m in [36mcheckStep[0m
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///usr/local/Cellar/casperjs/1.1-beta3/libexec/bin/bootstrap.js. Domains, protocols and ports must match.
-
-東京ラーニングスタジオ
-			
-			<!-- normal  -->,
+東京ラーニングスタジオ,
 東京都中央区八重洲1-7-20 八重洲口会館8階,
 平日 7:00〜21:55／土日祝 8:30〜20:25<br>12月30日（火）〜1月3日（土）は休校いたします。1月4日(日)から通常通り営業いたします。,
 JR東京駅 八重洲中央口より：
-									改札を出て、外堀通りまで直進し、横断歩道を渡った後、左折します。そのまま直進しすると右手に SMBC日興証券があります。そのビルの8階です。
-									JR東京駅 八重洲北口より：
-									改札を出て、外堀通りまで直進し、横断歩道を渡ります。右手に見える1階にSMBC日興証券があるビルの8階です。
-									
+改札を出て、外堀通りまで直進し、横断歩道を渡った後、左折します。そのまま直進しすると右手に SMBC日興証券があります。そのビルの8階です。
+JR東京駅 八重洲北口より：
+改札を出て、外堀通りまで直進し、横断歩道を渡ります。右手に見える1階にSMBC日興証券があるビルの8階です。
+						
 
 当ビルは八重洲地下街通路口から直結しています。
 ※1Fビル入口へは八重洲地下街17番出口をご利用ください。
@@ -31,19 +18,18 @@ JR東京駅 八重洲中央口より：
 東京都港区赤坂3-5-5ストロング赤坂ビル3階,
 平日 7:00-21:55／土日祝 9:15-20:25<br>12月30日（火）〜1月3日（土）は休校いたします。1月4日(日)から通常通り営業いたします。,
 東京メトロ赤坂駅より：
-									2番出口を出て正面にある横断歩道を渡り右へ曲がります。そのまま外堀通りまで直進すると左手に1階にファミリーマートが入っているビルがあります。そのビルの3階です。
-									※ビル横側にある入口から3階へお越しください。
-									※ストロング赤坂ビルの開館時間をご確認の上、ご来校ください。
-									【開館時間】平日 6:45〜／土日祝 9:00〜,
+2番出口を出て正面にある横断歩道を渡り右へ曲がります。そのまま外堀通りまで直進すると左手に1階にファミリーマートが入っているビルがあります。そのビルの3階です。
+※ビル横側にある入口から3階へお越しください。
+※ストロング赤坂ビルの開館時間をご確認の上、ご来校ください。
+【開館時間】平日 6:45〜／土日祝 9:00〜,
 
 
 
 赤羽ラーニングスタジオ,
 東京都北区赤羽西1-34-1亀屋ビル2階 ,
-平日 10:00-22:40／土日祝 9:15-20:25<br>
-								,
+平日 10:00-22:40／土日祝 9:15-20:25,
 JR赤羽駅より：
-									西口を出て正面のビビオを回り込むように進み、その裏手の交差点に向かいます。イトーヨーカドーの道路を挟んだ反対側、信用金庫の並びにあるファミリーマートの2階です。,
+西口を出て正面のビビオを回り込むように進み、その裏手の交差点に向かいます。イトーヨーカドーの道路を挟んだ反対側、信用金庫の並びにあるファミリーマートの2階です。,
 
 
 
