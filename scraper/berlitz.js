@@ -23,15 +23,24 @@ casper.start(arg, function(){
         });
     });
 
+    this.echo(arg);
     name = name.replace(/<span.*<\/span>/, "");
-    this.echo(name + ",");
+    this.echo(name);
     for(i=1; i<4; i++){
-        elements[i] = elements[i].replace(/(<br>)+/g, "");
-        elements[i] = elements[i].replace(/<script>.*<\/script>/, "");
-        this.echo(elements[i] + ",");
+        if(i===2){
+            continue;
+        }
+        elements[i] = elements[i].replace(/\n/g, " ");
+        elements[i] = elements[i].replace(/<br>/g, "");
+        elements[i] = elements[i].replace(/<b>/g, "");
+        elements[i] = elements[i].replace(/<\/b>/g, "");
+        elements[i] = elements[i].replace(/<script>.*<\/script>/g, "");
+        elements[i] = elements[i].replace(/<span.*">/g, "");
+        elements[i] = elements[i].replace(/<\/span>/g, "");
+        this.echo(elements[i]);
     }
 
-    this.echo("\n\n");
+    this.echo("\n");
 
 });
 
