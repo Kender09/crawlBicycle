@@ -24,10 +24,12 @@ casper.start(arg, function(){
     });
 
     this.echo(arg);
-    name = name.replace(/<span.*<\/span>/g, "");
+    name = name.replace(/\n/g, "");
+    name = name.replace(/\t/g, "");
+    name = name.replace(/スタジオ.*/, "スタジオ");
     this.echo(name);
 
-    for(i=0; i<1; i++){
+    for(i=0; i<2; i++){
         elements[i] = elements[i].replace(/\/n/g, "");
         if(i===1){
             elements[i] = elements[i].replace(/<b>.*<\/b>/g, "");

@@ -47,6 +47,6 @@ http://www.gaba.co.jp/ls/kobe.html
 
 for (( i=0; i<${#array[@]}; ++i ))
 do
-    casperjs ../scraper/gaba.js ${array[$i]} >> ../content_GABA.txt
+    casperjs ../scraper/gaba.js ${array[$i]} >> ../scraped_result/content_GABA.txt
 done
 

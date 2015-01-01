@@ -4,10 +4,10 @@ var config = (function(window,document,undefined){
   var config = {};
 
   // Set starting point for crawl
-  config.startUrl = 'http://www.tact-net.jp/winbe/network/index.htm#anc_01';
+  config.startUrl = 'http://www.ecc.jp/school/kanto_area/';
 
   // words to require for all urls ** put your top domain here to keep it local **
-  config.requiredValues = 'http://www.minel.jp/school';
+  config.requiredValues = 'http://www.ecc.jp/school/';
 
   // add any words that spider should skip (comma or space separated)
   config.skippedValues = 'default';
