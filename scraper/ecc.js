@@ -52,6 +52,7 @@ casper.start(arg, function(){
     // 住所
     addr[1] = addr[1].replace(/(<br>)|(&nbsp;)|\n/g, "");
     addr[1] = addr[1].replace(/〒[0-9]{3}-[0-9]{4}/g, "");
+    addr[1] = addr[1].replace(/<span.*>/g, "");
     this.echo(addr[1]);
 
     time = "" +time;
@@ -59,7 +60,7 @@ casper.start(arg, function(){
     time = time.replace(/<td.*">|<\/span>/g, "");
     time = time.replace(/\n/g, " ");
     time = time.replace(/( ){2}/g, "\n");
-    time = time.replace(/( 月)/, "月");
+    time = time.replace(/( 月)/g, "月");
     this.echo(time);
 
     this.echo("\n\n");
