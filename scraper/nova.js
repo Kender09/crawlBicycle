@@ -53,7 +53,7 @@ casper.start(arg, function(){
     }
 
 
-    this.echo("\n\n");
+    this.echo("\n");
 });
 
 casper.run();
